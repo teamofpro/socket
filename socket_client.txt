@@ -1,3 +1,4 @@
 class socket_client{
-
+	public static void main(){
+	}
 }
